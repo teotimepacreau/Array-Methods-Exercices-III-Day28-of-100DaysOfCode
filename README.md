@@ -7,3 +7,6 @@ https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/05_Day_Arrays/05_d
 - Math.abs() to get only absolute numbers (positive)
 - ternary operator to compare two values
 
+# 🛠️
+Vanilla Javascript
+
